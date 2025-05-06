@@ -44,6 +44,11 @@ Este proyecto implementa una aplicación interactiva en **Streamlit** para visua
 - `Programacion Personalizada.py`: permite al usuario modificar manualmente pedidos y reprogramarlos.
 - `Reprogramacion.py`: ejecuta simulaciones automáticas y ajusta la programación.
 
+## Imágenes
+
+<img width="547" alt="Image" src="https://github.com/user-attachments/assets/f8c657ac-5a8e-4207-bb60-b0936829cf05" />
+<img width="547" alt="Image" src="https://github.com/user-attachments/assets/fc1577b1-5930-4aa5-884e-93a03f512c89" />
+<img width="547" alt="Image" src="https://github.com/user-attachments/assets/098e9178-1a9d-46e9-a878-4167bdc99024" />
 
 ## 📄 Licencia
 
